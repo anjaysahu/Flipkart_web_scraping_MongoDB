@@ -2,7 +2,7 @@
 
 ## Overview
 
-A beginner-friendly web application built with **Python and Flask**. This project allows users to search for products on Flipkart, automatically fetch product details, and store them in MongoDB. It helps users quickly collect and view product information without manually browsing.
+A beginner-friendly web application built with **Python and Flask**. This project allows users to **search for products on Flipkart**, automatically fetch product details, and **store them in MongoDB**. It helps users quickly collect and view product information without manually browsing.
 
 ## My Role & Technical Contributions (Python Development)
 
